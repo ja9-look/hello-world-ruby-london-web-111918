@@ -1,7 +1,3 @@
-touch hello_world.rb
-
-
-tags:
   - basics
   - puts
   - hello world
